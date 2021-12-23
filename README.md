@@ -28,7 +28,7 @@
   <img align="left"  height="180" width="300" src="https://github-readme-stats.vercel.app/api?username=ahmednasser74" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmednasser74&layout=compact" />
+  <img align="right" height="180" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmednasser74&layout=compact" />
 </a>
 </p>
 
