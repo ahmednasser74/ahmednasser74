@@ -1,8 +1,6 @@
 # Hello there, I'M [Ahmed Nasser](https://ahmednasser74.github.io/ahmednasser/) 👋
 
-<img align="right" src="https://camo.githubusercontent.com/60bde148d5758c19d648a21e7b3b10b0c1c539f49b091e8b067193019af8986b/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f77656c636f6d65746f6361742e706e67" width="300"/> <br/>
-<img src="https://img.shields.io/badge/left-right-f39f37"/> 
-<img src="https://img.shields.io/static/v1?label=a7a&message=tany a7a &color = 7f0000"/> 
+<img align="right" src="https://camo.githubusercontent.com/60bde148d5758c19d648a21e7b3b10b0c1c539f49b091e8b067193019af8986b/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f77656c636f6d65746f6361742e706e67" width="400"/> <br/>
 
 - 👨🏽‍💻 I’m currently working at [Turbo EG](https://turbo-eg.com/)  
 - 👯 I’m looking to collaborate on Flutter
@@ -24,5 +22,18 @@
 ### Previous companies
 - [I'M HUNGRY](https://www.imhungry.co/)<br/>
 - [Ipda3Tech](https://ipda3.com/)<br/>
+#
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left"  height="180" src="https://github-readme-stats.vercel.app/api?username=ahmednasser74" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="right" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmednasser74&layout=compact" />
+</a>
+</p>
 
-
+<p align="center">
+<img src="https://img.shields.io/badge/App Store-3 Apps-0D47A1"/> 
+<img src="https://img.shields.io/badge/Play Store-3 Apps-43A047"/> 
+<img src="https://img.shields.io/badge/Exp-+2 year-7f0000"/> 
+</p>
