@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello There 👋
 
 - 👨🏽‍💻 I’m currently working at Turbo EG
 - WhatsApp [WhatsApp] (https://wa.me/$01119193535).
@@ -8,6 +8,7 @@
 - 💬 Ask me about ...
 - 📫 You can reach me: via 
 - 😄 Pronouns: ...
+![alt text](https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png)
 
 👨🏽‍💻 I’m currently working at Turbo EG
 👯 I’m looking to collaborate on Flutter
