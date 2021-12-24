@@ -28,7 +28,7 @@
 #
 <p align="center">
 <a href="https://github.com/ahmednasser74/github-readme-stats">
-  <img align="left"  height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=ahmednasser74&&show_icons=true" />
+  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=ahmednasser74&&show_icons=true" />
 </a>
 <a href="https://github.com/ahmednasser74/convoychat">
   <img align="right" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmednasser74&layout=compact" />
