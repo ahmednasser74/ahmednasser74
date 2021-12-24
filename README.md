@@ -10,11 +10,25 @@
   [<img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="drawing" width="22"/>](https://www.linkedin.com/in/ahmed-nasser-5b9554190/)
 
 
-### Some of my projects
+### 🚀 Some of my projects
+
 - [Turbo (Client)](https://apps.apple.com/eg/app/turbo-app/id1534848839)- The customer application for Turbo company.<br/>
 - [Turbo (Captain)](https://apps.apple.com/eg/app/turbo-captain/id1534849181) - The Captain application for Turbo company.<br/>
 - [I'M HUNGRY](https://play.google.com/store/apps/details?id=com.imhungry.www&hl=ar&gl=US) - The Captain application for Turbo company.<br/>
 - [Ahmed Nasser Portfolio](https://ahmednasser74.github.io/ahmednasser/) - My portfolio web site by flutter.<br/>
+
+![](https://img.shields.io/badge/AppStore-3Apps-0D47A1) ![](https://img.shields.io/badge/PlayStore-3Apps-43A047) ![](https://img.shields.io/badge/Exp-+2year-7f0000)
+
+#
+<p align="center">
+  <img align="left"  height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=ahmednasser74&&show_icons=true" />
+  <img align="right" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmednasser74&layout=compact" />
+</p>
+
+
+
+
+
 
 <!---### Languages and Tools:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" width="22"/><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" width="22"/> 
@@ -24,21 +38,3 @@
 <!---### Previous companies
 - [I'M HUNGRY](https://www.imhungry.co/)<br/>
 - [Ipda3Tech](https://ipda3.com/)<br/>-->
-
-#
-<p align="center">
-<!-- <a href="https://github.com/ahmednasser74/github-readme-stats"> -->
-  <img align="left"  height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=ahmednasser74&&show_icons=true" />
-<!-- </a> -->
-<!-- <a href="https://github.com/ahmednasser74/convoychat"> -->
-  <img align="right" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmednasser74&layout=compact" />
-<!-- </a> -->
-</p>
-
-<!---
-<p align="center">
-<img src="https://img.shields.io/badge/App Store-3 Apps-0D47A1"/> 
-<img src="https://img.shields.io/badge/Play Store-3 Apps-43A047"/> 
-<img src="https://img.shields.io/badge/Exp-+2 year-7f0000"/> 
-</p>
--->
