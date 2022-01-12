@@ -13,7 +13,7 @@
 ### 🚀 Some of my projects
 
 - [Turbo (Client)](https://apps.apple.com/eg/app/turbo-app/id1534848839)- The customer application for Turbo company.<br/>
-- [Turbo (Captain)](https://apps.apple.com/eg/app/turbo-captain/id1534849181) - The Captain application for Turbo company.<br/>
+- [Turbo (Captain)](https://apps.apple.com/eg/app/turbo-eg/id1600431565) - The Captain application for Turbo company.<br/>
 - [I'M HUNGRY](https://play.google.com/store/apps/details?id=com.imhungry.www&hl=ar&gl=US) - The Captain application for Turbo company.<br/>
 - [Ahmed Nasser Portfolio](https://ahmednasser74.github.io/ahmednasser/) - My portfolio web site by flutter.<br/>
 
