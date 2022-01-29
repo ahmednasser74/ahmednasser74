@@ -1,6 +1,6 @@
 # Hello there, I'M [Ahmed Nasser](https://ahmednasser74.github.io/ahmednasser/) 👋
 
-<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/> <br/>
+<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="320"/> <br/>
 
 - 👨🏽‍💻 I’m currently working at [Turbo EG](https://turbo-eg.com/)  
 - 👯 I’m looking to collaborate on Flutter
