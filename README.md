@@ -7,7 +7,7 @@
 - 💬 Ask me about mobile development any time you are welcome.
 - 📫 You can reach me via : 
   [<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png" alt="drawing" width="22"/>](https://wa.me/201119193535)
-  [<img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="drawing" width="22"/>](https://www.linkedin.com/in/ahmed-nasser-5b9554190/)
+  [<img src="https://i.postimg.cc/2yJC2YYM/linkedin.png" alt="drawing" width="22"/>](https://www.linkedin.com/in/ahmed-nasser-5b9554190/)
 
 
 ### 🚀 Some of my projects
