@@ -14,7 +14,7 @@
 
 - [Turbo (Client)](https://apps.apple.com/eg/app/turbo-eg/id1600431565)- The customer application for Turbo company.<br/>
 - [Turbo (Captain)](https://apps.apple.com/eg/app/turbocaptain/id1534849181) - The Captain application for Turbo company.<br/>
-- [I'M HUNGRY](https://play.google.com/store/apps/details?id=com.imhungry.www&hl=ar&gl=US) - The Captain application for Turbo company.<br/>
+- [I'M HUNGRY](https://play.google.com/store/apps/details?id=com.imhungry.www&hl=ar&gl=US) - I'M HUNGRY Franchise Mobile APP.<br/>
 - [Ahmed Nasser Portfolio](https://ahmednasser74.github.io/ahmednasser/) - My portfolio web site by flutter.<br/>
 
 ![](https://img.shields.io/badge/AppStore-4Apps-0D47A1) ![](https://img.shields.io/badge/PlayStore-4Apps-43A047) ![](https://img.shields.io/badge/Exp-+2year-7f0000)
