@@ -17,6 +17,10 @@
 - [I'M HUNGRY](https://play.google.com/store/apps/details?id=com.imhungry.www&hl=ar&gl=US) - I'M HUNGRY Franchise Mobile APP.<br/>
 - [Ahmed Nasser Portfolio](https://ahmednasser74.github.io/ahmednasser/) - My portfolio web site by flutter.<br/>
 
+
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+
+
 ![](https://img.shields.io/badge/AppStore-4Apps-0D47A1) ![](https://img.shields.io/badge/PlayStore-4Apps-43A047) ![](https://img.shields.io/badge/Exp-+2year-7f0000)
 
 #
@@ -33,14 +37,6 @@
 [![Likes](https://badges.bar/awesome_notifications/likes)](https://pub.dev/packages/awesome_notifications/score)
 [![popularity](https://badges.bar/awesome_notifications/popularity)](https://pub.dev/packages/awesome_notifications/score)
 [![pub points](https://badges.bar/awesome_notifications/pub%20points)](https://pub.dev/packages/awesome_notifications/score)
--->
-
-
-
-
-<!---### Languages and Tools:
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" width="22"/><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" width="22"/> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" width="22"/> 
 -->
 
 <!---### Previous companies
